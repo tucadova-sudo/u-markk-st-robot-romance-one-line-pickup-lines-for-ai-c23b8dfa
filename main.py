@@ -8,7 +8,8 @@ The line is written to the brief: a joke pickup line for a machine,
 grown from machine machinery (autocomplete finishing sentences) rather
 than the worn battery/charging/reboot moves, with the punch in the
 second half and a straight face throughout. It is 99 characters,
-inside the 200 limit.
+inside the 200 limit, and it is written with no trailing newline so
+the file is exactly one line.
 """
 
 import os
